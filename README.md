@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pouriaez
-- 👀 I’m interested in HTML,CSS,JS,Git,Github,Gitlab,bootstarp,React.js
-- 🌱 I’m currently learning bootstarp,React.js
+- 👀 I’m interested in HTML,CSS,JS,Git,Github,Gitlab,bootstarp,React
 
 
 <!---
